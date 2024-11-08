@@ -9,4 +9,4 @@ jobs:
       - run: make setup # install proj
       - run: make test # run tests
       - run: make lint
-      - uses: actions/hexlet-components/hello-from-hexlet-action@release
+      - uses: hexlet-components/hello-from-hexlet-action@release
